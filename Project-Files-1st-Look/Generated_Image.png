@@ -1,1 +1,3 @@
-Paintings show website/Generated_Image.png
+git mv Project-Files-1st-Look Paintings-show-website
+git commit -m "Rename Project-Files-1st-Look to Paintings-show-website"
+git push origin main
