@@ -4,12 +4,12 @@
 ** Created: 2025.
 ** Last Updated: 06/15/2026.
 ** Status: Archived / Completed.
-** Author: Alhassan Alhadidi.
+** Author: Alhassan-rgb555.
 ** Description: A finalized academic project designed for embedded systems, 
 featuring three core modules: Multi-Criteria Decision Making, Intelligent Alarm anagement, and Priority Pulsing control.
 
 ** GitHub: https://github.com/Alhassan-rgb555
-** Copyright (c) 2025 - 2026 Alhassan Ali Alhadidi.
+** Copyright (c) 2025 - 2026 Alhassan-rgb555.
 ** Licensed under the MIT License.
 ** Keywords: Arduino, Embedded-Systems, C++, Automation, Multi-Criteria.
 */
