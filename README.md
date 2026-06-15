@@ -1,4 +1,4 @@
-# My Portfolio and Projects
+# My Portfolio and Projects 
 
 Welcome to my repository. This collection showcases a selection of my academic and personal technical projects.
 
