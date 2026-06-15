@@ -1,3 +1,18 @@
+/*
+** Project: Multi-Criteria-Alarm-and-Priority-Pulsing-System (MCAPPS).
+** Hardware: Arduino Uno.
+** Created: 2025.
+** Last Updated: 6/15/2026.
+** Status: Archived / Completed.
+** Author: Alhassan Alhadidi.
+** Description: A finalized academic project designed for embedded systems, 
+featuring three core modules: Multi-Criteria Decision Making, Intelligent Alarm anagement, and Priority Pulsing control.
+
+** GitHub: https://github.com/Alhassan-rgb555
+** Copyright (c) 2025 - 2026 Alhassan Ali Alhadidi.
+** Licensed under the MIT License.
+** Keywords: Arduino, Embedded-Systems, C++, Automation, Multi-Criteria.
+*/
 
 // --- 1. PIN DEFINITIONS ---
 const int IR_SENSOR_PIN = 12; // Proximity Sensor (RED)
