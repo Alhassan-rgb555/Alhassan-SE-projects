@@ -2,7 +2,7 @@
 ** Project: Multi-Criteria-Alarm-and-Priority-Pulsing-System (MCAPPS).
 ** Hardware: Arduino Uno.
 ** Created: 2025.
-** Last Updated: 6/15/2026.
+** Last Updated: 06/15/2026.
 ** Status: Archived / Completed.
 ** Author: Alhassan Alhadidi.
 ** Description: A finalized academic project designed for embedded systems, 
