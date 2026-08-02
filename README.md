@@ -4,12 +4,15 @@ Welcome to my repository. This collection showcases a selection of my academic a
 
 --
 
-1. Embedded Systems: MCAPPS (Multi-Criteria-Alarm-and-Priority-Pulsing-System):
-1- Description: A finalized academic project designed for embedded systems, featuring three core modules: Multi-Criteria Decision Making, Intelligent Alarm Management, and Priority Pulsing control.
-   
-2- Technologies: C++, Arduino IDE, Embedded Logic.
+1. Embedded Systems: MCAPPS (Multi-Criteria Alarm and Priority Pulsing System):
 
-3- Status: Archived / Completed.
+
+Description: A finalized academic project designed for embedded systems, featuring three core modules: Multi-Criteria Decision Making, Intelligent Alarm Management, and Priority Pulsing control.
+
+
+1. Technologies: C++, Arduino IDE, Embedded Logic.
+
+2. Status: Completed.
 
 4- [Click here to view the project](https://github.com/Alhassan-rgb555/Alhassan-SE-projects/blob/main/MCAPPS/MCAPPS-source-code.ino)
 
@@ -17,7 +20,9 @@ Welcome to my repository. This collection showcases a selection of my academic a
 
 2. Interactive-Art-Showcase-Website:
 
-1- Description: An interactive web interface for displaying art collections. The project is designed with a scalable architecture, currently undergoing transitions to move from static content rendering to dynamic database-driven content (PostgerSQL/PHP integration in progress).
+
+Description: An interactive web interface for displaying art collections. The project is designed with a scalable architecture, currently undergoing transitions to move from static content rendering to dynamic database-driven content (PostgerSQL/PHP integration in progress).
+
 
 2- Technologies: HTML5, CSS3, JavaScript (planned migration to PHP/PostgreSQL).
 
