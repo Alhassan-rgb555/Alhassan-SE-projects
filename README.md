@@ -15,7 +15,7 @@ Welcome to my repository. This collection showcases a selection of my academic a
 
 -------------------------------------------------------------------------------------------------------------------------
 
-3. Interactive-Art-Showcase-Website:
+2. Interactive-Art-Showcase-Website:
 
 ** Description: An interactive web interface for displaying art collections. The project is designed with a scalable architecture, currently undergoing transitions to move from static content rendering to dynamic database-driven content (PostgerSQL/PHP integration in progress).
 
