@@ -7,5 +7,3 @@ Description: An interactive web interface for displaying art collections. The pr
 1- Technologies: HTML5, CSS3, JavaScript (planned migration to PHP/PostgreSQL).
 
 2- Status: In-Development (Active).
-
-3- Click here to view the project
